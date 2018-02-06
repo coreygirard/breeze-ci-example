@@ -1,7 +1,7 @@
 def fetch_forty_two():
     '''
     >>> fetch_forty_two()
-    42
+    43
     '''
     return 42
 
