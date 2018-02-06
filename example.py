@@ -7,7 +7,7 @@ def fetch_forty_two():
 
 def fetch_forty_two_words():
     '''
-    >>> fetch_forty_two()
+    >>> fetch_forty_two_words()
     'forty-two'
     '''
     return 'forty-two'
