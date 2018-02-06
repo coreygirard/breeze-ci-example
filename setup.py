@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='breeze-ci-test-repo',
-      version='0.1',
+      version='0.0.1',
       description=' ',
       url='http://github.com/crgirard/breeze-ci-example',
       author='Corey Girard',
