@@ -15,9 +15,9 @@ class TestFetchFortyTwoWords(unittest.TestCase):
         #self.assertEqual(result,expected)
         pass
 
-def load_tests(loader, tests, ignore):
-    tests.addTests(doctest.DocTestSuite(example))
-    return tests
+#def load_tests(loader, tests, ignore):
+#    tests.addTests(doctest.DocTestSuite(example))
+#    return tests
 
 if __name__ == '__main__':
     unittest.main()
