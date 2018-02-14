@@ -10,10 +10,10 @@ class TestFetchFortyTwo(unittest.TestCase):
 
 class TestFetchFortyTwoWords(unittest.TestCase):
     def test_fetch_forty_two_words(self):
-        return
-        result = example.fetch_forty_two_words()
-        expected = 'forty-two'
-        self.assertEqual(result,expected)
+        #result = example.fetch_forty_two_words()
+        #expected = 'forty-two'
+        #self.assertEqual(result,expected)
+        pass
 
 def load_tests(loader, tests, ignore):
     tests.addTests(doctest.DocTestSuite(example))
